@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HolaMundo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="help_activity_title">Ayuda</string>
+    <string name="menu_help">Ayuda</string>
+    <string name="menu_remove">Eliminar</string>
+    <string name="menu_add">Añadir</string>
+    <string name="help_text">Esta es la vista de ayuda</string>
+    <string name="remove_text">Acabas de eliminar algo</string>
+    <string name="ticker_text">Acabas de añadir algo al sistema</string>
+    <string name="content_title">Titulo del mensaje</string>
+    <string name="content_description">Pulsa para ir a ver lo que añadiste</string>
+    <string name="menu_add_log_text">Pulsado Añadir</string>
+    <string name="menu_remove_log_text">Pulsado Eliminar</string>
+    <string name="menu_help_log_text">Pulsado Ayuda</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="title_activity_intermediaria">Intermediaria</string>
+
+</resources>
